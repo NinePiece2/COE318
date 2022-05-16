@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\romit\\Documents\\COE 318\\lab1\\Lab1\\build\\classes\\java\\main;C:\\Users\\romit\\Documents\\COE 318\\lab1\\Lab1\\build\\resources\\main'
+-d 'C:\\Users\\romit\\Documents\\COE 318\\lab1\\Lab1\\build\\docs\\javadoc'
+-doctitle 'Lab1 API'
+-notimestamp 
+-quiet 
+-windowtitle 'Lab1 API'
+'C:\\Users\\romit\\Documents\\COE 318\\lab1\\Lab1\\src\\main\\java\\coe318\\lab1\\Resistor.java'
